@@ -1,8 +1,6 @@
 ## Hi, I'am Heitor Scalabrini 👋
 
- - 👨‍💻 Working with Projects
- - 👨‍💻 Working with Web Development
- - 👨‍💻 Working with Databases
+ - 👨‍💻 Working with Projects, Web Development and Databases
  - 🏥 Working in a Hospital
  - 👨‍🏫 Teaching Web Development
  - 🐍 Studying Python
