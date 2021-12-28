@@ -4,6 +4,7 @@
  - 👨‍💻 Working with Web Development
  - 👨‍💻 Working with Databases
  - 🏥 Working in a hospital
+ - 👨‍🏫 Teaching Web Development
  - 🐍 Studying Python
  - 👨‍🎓 Studying Project Management
 
