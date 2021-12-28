@@ -5,6 +5,8 @@
  - 👨‍💻 Working with Databases
  - 🏥 Working in a hospital
  - 🐍 Studying Python
+ - 👨‍🎓 Studying Project Management
+
  
  <br>
 
