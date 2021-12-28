@@ -2,9 +2,6 @@
 
  - 👨‍💻 Trabalhando com Desenvolvimento Web
  - 🐍 Estudando Python
- - 🎲 Estudante de Banco de Dados - FATEC/SJC
- - 📧 Entre em contato pelo email lucasmag261099@gmail.com
- - 🍔 Amante de Gastronomia
  
  <br>
 
@@ -16,13 +13,13 @@
 
 
  <div align = "center"> <br>
-  <img  align = "center" alt = "Lucas-php" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img  align = "center" alt = "Lucas-HTML" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img  align = "center" alt = "Lucas-CSS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img  align = "center" alt = "Lucas-JS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img  align = "center" alt = "Lucas-python" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img  align = "center" alt = "Lucas-Oracle" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img  align = "center" alt = "Lucas-Vue" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img  align = "center" alt = "Heitor-Scalabrini-php" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img  align = "center" alt = ""Heitor-Scalabrini-HTML" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img  align = "center" alt = ""Heitor-Scalabrini-CSS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img  align = "center" alt = ""Heitor-Scalabrini-JS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img  align = "center" alt = ""Heitor-Scalabrini-python" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img  align = "center" alt = ""Heitor-Scalabrini-Oracle" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img  align = "center" alt = ""Heitor-Scalabrini-Vue" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/bootstrap.svg" />
 </div>
   
   ##
@@ -32,14 +29,3 @@
   <a href="https://www.linkedin.com/in/lucas-magno-6a5765137" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   <a href="https://instagram.com/lucasmagno26" target="_blank"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>   
  </div>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
