@@ -19,7 +19,7 @@
   <img  align = "center" alt = ""Heitor-Scalabrini-JS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img  align = "center" alt = ""Heitor-Scalabrini-python" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img  align = "center" alt = ""Heitor-Scalabrini-Oracle" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
-  <img  align = "center" alt = ""Heitor-Scalabrini-Vue" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img  align = "center" alt = ""Heitor-Scalabrini-Vue" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap-plain-wordmark.svg" />
 </div>
   
   ##
