@@ -16,9 +16,9 @@
   <img  align = "center" alt = "Heitor-Scalabrini-php" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img  align = "center" alt = ""Heitor-Scalabrini-HTML" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img  align = "center" alt = ""Heitor-Scalabrini-CSS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img  align = "center" alt = ""Heitor-Scalabrini-Vue" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img  align = "center" alt = ""Heitor-Scalabrini-Bootstrap" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img  align = "center" alt = ""Heitor-Scalabrini-JS" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img  align = "center" alt = ""Heitor-Scalabrini-python" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img  align = "center" alt = ""Heitor-Scalabrini-C" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img  align = "center" alt = ""Heitor-Scalabrini-Oracle" height = "60" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   
 </div>
