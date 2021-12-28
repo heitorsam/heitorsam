@@ -3,7 +3,7 @@
  - 👨‍💻 Working with Projects
  - 👨‍💻 Working with Web Development
  - 👨‍💻 Working with Databases
- - 👨‍ working in a hospital
+ - 🏥 Working in a hospital
  - 🐍 Studying Python
  
  <br>
