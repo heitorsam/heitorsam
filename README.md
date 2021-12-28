@@ -1,7 +1,10 @@
-## Olá, sou Heitor Scalabrini 👋
+## Hi, I'am Heitor Scalabrini 👋
 
- - 👨‍💻 Trabalhando com Desenvolvimento Web
- - 🐍 Estudando Python
+ - 👨‍💻 Working with Projects
+ - 👨‍💻 Working with Web Development
+ - 👨‍💻 Working with Databases
+ - 👨‍ working in a hospital
+ - 🐍 Studying Python
  
  <br>
 
