@@ -3,10 +3,9 @@
  - 👨‍💻 Working with Projects, Web Development and Databases
  - 🏥 Working in a Hospital
  - 👨‍🏫 Teaching Web Development
- - 🐍 Studying Python
  - 👨‍🎓 Studying Project Management
-
- 
+ - 🐍 Studying Python
+  
  <br>
 
 <div align = "center">
