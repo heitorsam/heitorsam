@@ -32,7 +32,7 @@
   
   ##
   
-  <div> 
+  <div align = "center"> 
   <a href="mailto:scalabrinih@gmail.com" target="_blank"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
   <a href="https://www.linkedin.com/in/heitor-scalabrini-sampaio-629b932a" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   <a href="https://pt.stackoverflow.com/users/176220/heitor-scalabrini" target="_blank"> <img src = "https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"> </a>  
