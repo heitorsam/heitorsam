@@ -2,9 +2,8 @@
 
  - 👨‍💻 Working with Projects, Web Development and Databases
  - 🏥 Working in a Hospital
- - 👨‍🏫 Teaching Web Development
+ - 👨‍🏫 Web Development Teacher
  - 👨‍🎓 Studying Project Management
- - 🐍 Studying Python
   
  <br>
 
