@@ -3,7 +3,7 @@
  - 👨‍💻 Working with Projects, Web Development and Databases
  - 🏥 Working in a Hospital
  - 👨‍🏫 Web Development Teacher
- - 👨‍🎓 Studying Project Management
+ - 👨‍🎓 Project Management
   
  <br>
 
