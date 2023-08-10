@@ -7,6 +7,16 @@
   
  <br>
 
+ Me chamo Heitor Scalabrini Sampaio, trabalho com programação de banco de dados a mais de 10 anos, tive experiência em criação, gerenciamento e programação de banco de dados em diversas linguagens como PL/SQL, MySQL e Oracle. Com o tempo fui me aprofundando em outras linguagens de programação como PHP, HTML, CSS, JAVASCRIPT, BOOTSTRAP e dependendo da necessidade de alguns frameworks e desenvolvimento mobile. Também desenvolvo painéis gerenciais para tomadas de decisões que sempre fizeram parte da minha carreira profissional.
+
+Fui me especializando em gerenciamento de projetos e levantamentos de requisitos para entender a necessidade do cliente e "traduzir" para uma linguagem simples para outros desenvolvedores.
+
+Tenho prazer em compartilhar conhecimento e com isso fui convidado a ser professor de um curso de programador WEB.
+
+Sou proativo, gosto de adquirir novos conhecimentos, sou persistente e sei que se preciso pedirei ajuda a algum colega de trabalho.
+
+<br>
+
 <div align = "center">
   <a href="https://github.com/heitorsam">
    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=heitorsam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
