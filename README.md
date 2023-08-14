@@ -6,7 +6,6 @@
  - 👨‍🎓 Project Management
   
  <br>
-
  Me chamo Heitor Scalabrini Sampaio, trabalho com programação de banco de dados a mais de 10 anos, tive experiência em criação, gerenciamento e programação de banco de dados em diversas linguagens como PL/SQL, MySQL e Oracle. Com o tempo fui me aprofundando em outras linguagens de programação como PHP, HTML, CSS, JAVASCRIPT, BOOTSTRAP e dependendo da necessidade de alguns frameworks como o LARAVEL e desenvolvimento mobile. Também desenvolvo painéis gerenciais para tomadas de decisões que sempre fizeram parte da minha carreira profissional.
 
 Fui me especializando em gerenciamento de projetos e levantamentos de requisitos para entender a necessidade do cliente e "traduzir" para uma linguagem simples para outros desenvolvedores.
