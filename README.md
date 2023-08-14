@@ -13,8 +13,6 @@ Fui me especializando em gerenciamento de projetos e levantamentos de requisitos
 
 Tenho prazer em compartilhar conhecimento e com isso fui convidado a ser professor de um curso de programador WEB.
 
-Sou proativo, gosto de adquirir novos conhecimentos, sou persistente e sei que se preciso pedirei ajuda a algum colega de trabalho.
-
 <br>
 
 <div align = "center">
