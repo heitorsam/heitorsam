@@ -12,7 +12,7 @@ Fui me especializando em gerenciamento de projetos e levantamentos de requisitos
 
 Tenho prazer em compartilhar conhecimento e com isso fui convidado a ser professor de um curso de programador WEB.
 
-Observação: Nem todos os repositórios estão públicos por questão de privacidade, porém já conto com mais de 50 respositórios de projetos desenvolvidos.
+Observação: Nem todos os repositórios estão públicos por questão de privacidade, porém já conto com mais de 50 repositórios de projetos desenvolvidos.
 
 <br>
 
